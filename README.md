@@ -207,6 +207,6 @@ Simple registration application with CRUD functionality.
 
 Learning • Building • Growing • One Project at a Time
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=3,14,17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=30,3,17&fontColor=ffffff&text=Thanks%20for%20Visiting!&fontSize=28"/>
 
 </div>
