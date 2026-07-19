@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24&text=Syeda%20Sunaina&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=30,3,17&text=Syeda%20Sunaina&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
 # 👋 Hi, I'm Syeda Sunaina
 
-### 💙 Frontend Developer • Full Stack Developer • UI Enthusiast
+### Frontend Developer • Full Stack Developer • Building Modern Digital Experiences
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1200&color=8A7CFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Full+Stack+Developer;React+%7C+Next.js+%7C+JavaScript;Building+Beautiful+User+Experiences;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=C6817B&center=true&vCenter=true&width=700&lines=Frontend+Developer;Full+Stack+Developer;React+Developer;Building+Modern+Web+Experiences"/>
 
 <p>
 
-<img src="https://komarev.com/ghpvc/?username=syedasunaina512&label=PROFILE+VIEWS&style=for-the-badge&color=6C63FF"/>
+<img src="https://komarev.com/ghpvc/?username=syedasunaina512&label=PROFILE+VIEWS&style=for-the-badge&color=C6817B"/>
 
-<img src="https://img.shields.io/github/followers/syedasunaina512?label=FOLLOWERS&style=for-the-badge&color=4F8EF7"/>
+<img src="https://img.shields.io/github/followers/syedasunaina512?label=FOLLOWERS&style=for-the-badge&color=7B596A"/>
 
-<img src="https://img.shields.io/github/stars/syedasunaina512?style=for-the-badge&color=8A7CFF"/>
+<img src="https://img.shields.io/github/stars/syedasunaina512?style=for-the-badge&color=F99A67"/>
 
 </p>
 
@@ -22,31 +22,27 @@
 
 ---
 
-# 💫 About Me
+<h2 align="center">🌸 About Me</h2>
 
-<img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-💙 Passionate about building **responsive and modern websites**
+Hi! I'm **Syeda Sunaina**, a passionate Frontend Developer who enjoys transforming ideas into clean, responsive, and user-friendly web experiences.
 
-🌱 Currently learning **Full Stack Development**
+I'm currently expanding my knowledge in **Full Stack Development**, focusing on building practical projects that strengthen both my frontend and backend skills.
 
-🚀 Exploring **React.js • Next.js • Node.js • FastAPI**
+One of my favorite projects is **EaseMovie**, an AI-powered Android application that transforms stories into animated videos. Developing it gave me hands-on experience with frontend development, backend APIs, AI integration, and solving real-world challenges.
 
-🤝 Open to **Frontend & Open Source Collaborations**
+I believe great software combines functionality with thoughtful design. That's why I enjoy creating interfaces that are intuitive, accessible, and visually appealing.
 
-💬 Ask me about
+Beyond coding, I continuously explore modern technologies, improve my UI/UX skills, and take on projects that challenge me to grow as a developer.
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Responsive Design
+### What I'm currently focused on
 
-🎯 **2026 Goal**
-
-Become a Professional Full Stack Developer and contribute to impactful real-world projects.
-
----
+- 🌱 Mastering Full Stack Development
+- ⚛️ Building React & Next.js applications
+- 🤖 Exploring AI-powered applications
+- 🤝 Contributing to collaborative projects
+- 🚀 Preparing for Frontend & Full Stack opportunities
 
 # 🌐 Let's Connect
 
@@ -76,55 +72,76 @@ Become a Professional Full Stack Developer and contribute to impactful real-worl
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,python,fastapi,kotlin,mysql,mongodb,firebase,git,github,vscode,androidstudio,figma,aws,gcp"/>
+## 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap"/>
+
+<br><br>
+
+## ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi"/>
+
+<br><br>
+
+## 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+
+<br><br>
+
+## ☁️ Cloud & Deployment
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify"/>
+
+<br><br>
+
+## 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma"/>
 
 </div>
 
----
 
 # 🚀 Featured Projects
 
-## 🎬 EaseMovie
+### 🎬 EaseMovie
 
-> AI-powered Story to Animation Creator Android App
+AI-powered Story to Animation Creator Android App
 
-✨ Story Segmentation
+> Kotlin • FastAPI • Firebase • AI Integration
 
-🎨 AI Image Generation
+⭐ Story Segmentation
 
-🎙️ AI Voice Generation
+⭐ AI Image Generation
 
-🎥 Animation Creation
+⭐ AI Voice Generation
 
-📱 Native Android (Kotlin)
-
----
-
-## 🌐 Portfolio Website
-
-A modern developer portfolio showcasing my skills, projects and journey.
-
-**Tech:** HTML • CSS
+⭐ Animation Creation
 
 ---
 
-## 🏨 Hotel Reservation System
+### 🌐 Portfolio Website
 
-Hotel booking & management system built using Python and MySQL.
+Modern responsive portfolio showcasing my skills, projects and journey.
 
-Features
-
-- CRUD Operations
-
-- Database Integration
-
-- Reservation Management
+> HTML • CSS • JavaScript
 
 ---
 
-## 📋 Student Registration System
+### 🏨 Hotel Reservation System
 
-Simple registration application with user-friendly interface.
+Hotel management system with booking functionality.
+
+> Python • MySQL
+
+---
+
+### 📋 Student Registration System
+
+Simple registration application with CRUD functionality.
+
+> HTML • CSS • JavaScript
 
 ---
 
@@ -132,9 +149,9 @@ Simple registration application with user-friendly interface.
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=syedasunaina512&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=syedasunaina512&show_icons=true&theme=rose_pine&hide_border=true"/>
 
-<img width="48%" src="https://streak-stats.demolab.com?user=syedasunaina512&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=syedasunaina512&theme=rose_pine&hide_border=true"/>
 
 </div>
 
@@ -142,7 +159,7 @@ Simple registration application with user-friendly interface.
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedasunaina512&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedasunaina512&layout=compact&theme=rose_pine&hide_border=true"/>
 
 </div>
 
@@ -162,7 +179,7 @@ Simple registration application with user-friendly interface.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=syedasunaina512&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=syedasunaina512&theme=rose_pine"/>
 
 </div>
 
@@ -172,7 +189,7 @@ Simple registration application with user-friendly interface.
 
 <div align="center">
 
-> **"Success is built one commit, one bug fix, and one lesson at a time."** 💜
+> 💬 "Every expert was once a beginner who refused to give up." 
 
 </div>
 
@@ -188,8 +205,8 @@ Simple registration application with user-friendly interface.
 
 ### 💙 Thank You For Visiting My Profile
 
-*"Code with purpose. Learn with curiosity. Build with passion."*
+Learning • Building • Growing • One Project at a Time
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=3,14,17"/>
 
 </div>
